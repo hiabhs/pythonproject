@@ -33,5 +33,3 @@ jobs:
          pip install unittest
          export PYTHONPATH=src
          unittest
-        python -m unittest tests/test*.py
-
